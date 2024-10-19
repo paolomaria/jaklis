@@ -1,0 +1,5 @@
+.env
+*.dunikey
+not4U
+.vscode/settings.json
+__pycache__
